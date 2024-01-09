@@ -1,0 +1,19 @@
+body{background-color:black;}
+hi{text-transform: uppercase; font-size: 3rem;}
+
+p{border: 5rem;}
+.motivation-img{width: 100%; border:  solid white}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-family:'Caveat', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Libre Baskerville', serif; ;
+
+}
+
+
+
